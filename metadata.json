@@ -1,0 +1,6 @@
+{
+  "name": "Vikranth Yerraboyina Portfolio",
+  "description": "Interactive AI-powered portfolio of Vikranth Yerraboyina, AI/ML Engineer, featuring an AI career assistant and skill matchmaker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
